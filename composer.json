@@ -1,0 +1,10 @@
+{
+    "name": "drupal-ckeditor-libraries/panelbutton",
+    "description": "drupal-ckeditor-libraries/panelbutton",
+    "type": "drupal-library",
+    "license": [
+        "GPL-3.0-or-later",
+        "MPL-1.1",
+        "LGPL-3.0-or-later"
+    ]
+}
